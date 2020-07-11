@@ -6,6 +6,7 @@
 🏠✉️ self@chrisdallas.tech
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-dallas/)](https://www.linkedin.com/in/christopher-dallas/)
+[![Insta](https://img.shields.io/badge/-Insta-222222?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/christdallas/)](https://www.instagram.com/christdallas/)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/__prblmchld/)](https://twitter.com/__prblmchld/)
 [![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/prblmchld)](https://keybase.io/prblmchld)
 
