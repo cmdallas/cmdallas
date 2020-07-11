@@ -1,16 +1,43 @@
-### Hi there 👋
+# cmdallas ☕ 🌧️ ☂
 
-<!--
-**cmdallas/cmdallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☸️ `Amazon::AWS::EKS`
 
-Here are some ideas to get you started:
+🏢✉️ cdalla@amazon.com
+🏠✉️ self@chrisdallas.tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-dallas/)](https://www.linkedin.com/in/christopher-dallas/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/__prblmchld/)](https://twitter.com/__prblmchld/)
+[![Keybase](https://img.shields.io/badge/-Keybase-222222?style=flat-square&logo=keybase&logoColor=white&link=https://keybase.io/prblmchld)](https://keybase.io/prblmchld)
+
+```js
+export default () => ({
+  pronouns: "He" | "Him",
+  pubKey: "72AA 8A95 6E68 ABE3",
+  musicUrl: "https://soundcloud.com/sevenmonthstory",
+  askMeAbout: ["aws", "distributed systems", "math rock guitar"],
+  technologies: {
+    cloud: ["aws"],
+    frontEnd: {
+      js: ["react", "redux"],
+      misc: ["hugo"]
+    },
+    backEnd: {
+      elixir: ["phoenix"],
+      go: ["grpc", "serverless contexts"],
+      java: ["serverless contexts"],
+      js: ["node", "express"],
+      python: ["flask", "asyncio"],
+      ruby: ["sinatra", "rails"]
+    },
+    database: ["dynamo", "redis"],
+    serverless: ["stepfunctions", "fargate", "sqs", "lambda"],
+    infrastructure: ["cdk", "cloudformation", "crossplane"],
+    deployment: ["argo/flux", "codepipelines", "codebuild", "circleci"],
+    orchestration: ["kubernetes", "ecs"],
+    mesh: ["appmesh", "istio"]
+  },
+  memberships: ["AWS Labs"],
+  humanLanguages: ["English", "norsk"],
+  currentObsessions: ["ghost pokemon", "topo chico", "fuzzy hats"]
+});
+```
