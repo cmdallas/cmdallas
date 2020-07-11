@@ -27,7 +27,7 @@ export default () => ({
       go: ["grpc", "serverless contexts"],
       java: ["serverless contexts"],
       js: ["node", "express"],
-      python: ["flask", "asyncio"],
+      python: ["flask"],
       ruby: ["sinatra", "rails"]
     },
     database: ["dynamo", "redis"],
