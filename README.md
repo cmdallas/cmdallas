@@ -13,7 +13,7 @@
 ```js
 export default () => ({
   pronouns: "He" | "Him",
-  pubKey: "72AA 8A95 6E68 ABE3",
+  pubKey: "AF2C 9899 629C E82D",
   musicUrl: "https://soundcloud.com/sevenmonthstory",
   askMeAbout: ["aws", "distributed systems", "math rock guitar"],
   technologies: {
