@@ -39,6 +39,6 @@ export default () => ({
   },
   memberships: ["AWS Labs"],
   humanLanguages: ["English", "norsk"],
-  currentObsessions: ["ghost pokemon", "topo chico", "fuzzy hats"]
+  currentObsessions: ["ghost pokemon", "sparkling mineral water", "fuzzy hats", "economics"]
 });
 ```
