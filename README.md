@@ -9,7 +9,6 @@
 
 ```js
 export default () => ({
-  pronouns: "He" | "Him",
   pubKey: "AF2C 9899 629C E82D",
   musicUrl: "https://soundcloud.com/sevenmonthstory",
   askMeAbout: ["aws", "distributed systems", "math rock guitar", "surfing"],
@@ -36,6 +35,6 @@ export default () => ({
   },
   memberships: ["AWS Labs"],
   humanLanguages: ["English", "norsk"],
-  currentObsessions: ["ghost pokemon", "sparkling mineral water", "fuzzy hats", "economics"]
+  currentObsessions: ["ghost pokemon", "sparkling mineral water", "fuzzy hats", "defi"]
 });
 ```
