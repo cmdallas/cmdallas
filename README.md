@@ -31,7 +31,8 @@ export default () => ({
     infrastructure: ["cdk", "cloudformation", "crossplane"],
     deployment: ["argo/flux", "codepipelines", "codebuild", "circleci"],
     orchestration: ["kubernetes", "ecs"],
-    mesh: ["appmesh", "istio", "linkerd"]
+    mesh: ["appmesh", "istio", "linkerd"],
+    web3: ["solidity", "brownie"]
   },
   memberships: ["AWS Labs"],
   humanLanguages: ["English", "norsk"],
