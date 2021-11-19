@@ -32,7 +32,7 @@ export default () => ({
     deployment: ["argo/flux", "codepipelines", "codebuild", "circleci"],
     orchestration: ["kubernetes", "ecs"],
     mesh: ["appmesh", "istio", "linkerd"],
-    web3: ["solidity", "brownie"]
+    web3: ["solidity", "brownie", "hardhat"]
   },
   memberships: ["AWS Labs"],
   humanLanguages: ["English", "norsk"],
