@@ -34,7 +34,6 @@ export default () => ({
     mesh: ["appmesh", "istio", "linkerd"],
     web3: ["solidity", "brownie", "hardhat"]
   },
-  memberships: ["AWS Labs"],
   humanLanguages: ["English", "norsk"],
   currentObsessions: ["ghost pokemon", "sparkling mineral water", "fuzzy hats", "defi"]
 });
