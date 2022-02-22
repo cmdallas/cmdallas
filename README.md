@@ -28,7 +28,7 @@ export default () => ({
     },
     database: ["dynamo", "redis"],
     serverless: ["stepfunctions", "fargate", "sqs", "lambda"],
-    infrastructure: ["cdk", "cloudformation", "crossplane"],
+    infrastructure: ["ansible", "cdk", "cloudformation", "crossplane"],
     deployment: ["argo/flux", "codepipelines", "codebuild", "circleci"],
     orchestration: ["kubernetes", "ecs"],
     mesh: ["appmesh", "istio", "linkerd"],
