@@ -21,15 +21,15 @@ export default () => ({
     backEnd: {
       elixir: ["phoenix"],
       go: ["grpc", "serverless contexts"],
-      java: ["serverless contexts"],
+      java: ["spring", "serverless contexts"],
       js: ["node", "express"],
       python: ["flask"],
       ruby: ["sinatra", "rails"]
     },
-    database: ["dynamo", "redis"],
+    database: ["dynamo", "redis", "mongo"],
     serverless: ["stepfunctions", "fargate", "sqs", "lambda"],
     infrastructure: ["ansible", "cdk", "cloudformation", "crossplane"],
-    deployment: ["argo/flux", "codepipelines", "codebuild", "circleci"],
+    deployment: ["jenkins", "argo/flux", "codepipelines", "codebuild", "circleci"],
     orchestration: ["kubernetes", "ecs"],
     mesh: ["appmesh", "istio", "linkerd"],
     web3: ["solidity", "brownie", "hardhat"]
